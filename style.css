@@ -10,3 +10,317 @@ Version: 4.9.10.1651667823
 Updated: 2022-05-04 14:37:03
 
 */
+
+/* ----- book bord----*/
+.wpc-reservation-field.date .wpc-choose-date {
+  color: #e5ddca;
+  text-transform: uppercase;
+  font-style: normal;
+}
+.wpc-reservation-form .wpc-reservation-field .wpc-form-control {
+  background-color: #f7f5ea;
+}
+.wpc-reservation-form .wpc_reservation_form {
+  background-color: #e5ddca;
+}
+.wpc-reservation-form .wpc-reservation-field label {
+  color: #254234;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.wpc-reservation-form .wpc-reservation-field .wpc-form-control {
+  font-size: 16px;
+  color: #254234;
+}
+.wpc-reservation-field.date
+  .flatpickr-current-month
+  .flatpickr-monthDropdown-months {
+  color: #e5ddca;
+  text-transform: uppercase;
+}
+.wpc-reservation-field.date .numInputWrapper .cur-year {
+  color: #e5ddca;
+}
+
+.wpc-reservation-field.date span.flatpickr-weekday {
+  color: #e5ddca;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.wpc-reservation-field.date .flatpickr-day {
+  color: #e5ddca;
+  font-size: 16px;
+}
+.wpc-reservation-field.date .flatpickr-day.selected {
+  background-color: #254234;
+  color: #e5ddca;
+}
+
+/*---Kurv--*/
+.cart_totals h2 {
+  text-transform: uppercase;
+}
+.woocommerce .cart .button {
+  display: none;
+}
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+  display: none;
+}
+
+.woocommerce .cart-collaterals .cart_totals,
+.woocommerce-page .cart-collaterals .cart_totals {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #254234;
+}
+.entry-content table:not(.variations) {
+  background-color: #e5ddca;
+}
+.entry-content table:not(.variations) {
+  color: #254234;
+}
+.woocommerce td.product-name dl.variation dt {
+  color: #254234;
+  font-size: 16px;
+}
+.woocommerce td.product-name dl.variation p {
+  font-size: 16px;
+}
+.woocommerce td.product-name dl.variation dt {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.woocommerce table.shop_table th {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.table.cart td {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+#post-739
+  > div
+  > div
+  > div
+  > div
+  > div.et_pb_row.et_pb_row_1
+  > div
+  > div
+  > div
+  > div
+  > form
+  > table
+  > tbody
+  > tr.woocommerce-cart-form__cart-item.cart_item
+  > td.product-name
+  > a {
+  font-size: 16px;
+}
+
+#post-739
+  > div
+  > div
+  > div
+  > div
+  > div.et_pb_row.et_pb_row_1
+  > div
+  > div
+  > div
+  > div
+  > form
+  > table
+  > tbody
+  > tr.woocommerce-cart-form__cart-item.cart_item
+  > td.product-price
+  > span
+  > bdi {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+#post-739
+  > div
+  > div
+  > div
+  > div
+  > div.et_pb_row.et_pb_row_1
+  > div
+  > div
+  > div
+  > div
+  > form
+  > table
+  > tbody
+  > tr.woocommerce-cart-form__cart-item.cart_item
+  > td.product-subtotal {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+.woocommerce-page .quantity input.qty,
+.woocommerce .quantity input.qty {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-size: 16px !important;
+  height: 39px;
+}
+.cart-subtotal td {
+  font-size: 16px;
+}
+#post-739
+  > div
+  > div
+  > div
+  > div
+  > div.et_pb_row.et_pb_row_1
+  > div
+  > div
+  > div
+  > div
+  > div.cart-collaterals
+  > div
+  > table
+  > tbody
+  > tr.order-total
+  > td {
+  font-size: 16px;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+  text-align: right;
+  border: none;
+}
+.woocommerce a.button,
+.woocommerce a.button.alt {
+  font-size: 16px;
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.woocommerce a.button,
+.woocommerce-page a.button {
+  color: #254234;
+}
+
+.woocommerce a.remove {
+  color: #ba6a38 !important;
+}
+/*---kassen---*/
+.woocommerce .woocommerce-info {
+  display: none;
+}
+.woocommerce-checkout #payment {
+  display: none;
+}
+
+/* input[type="text"] {
+  background-color: #e5ddca;
+  border: 1px solid #e5ddca;
+  color: #254234;
+} */
+.woocommerce form .form-row input.input-text {
+  border-radius: 7px;
+  font-size: 16px;
+  background-color: #e5ddca;
+  border: 1px solid #e5ddca;
+  color: #254234;
+}
+.woocommerce form .form-row label {
+  font-size: 16px;
+  font-weight: 600;
+}
+#customer_details > div.col-2 > div.woocommerce-additional-fields > h3 {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  color: #ba6a38 !important;
+}
+#order_review_heading {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  color: #ba6a38 !important;
+  margin-top: 4rem;
+}
+#customer_details > div.col-1 > div > h3 {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  color: #ba6a38 !important;
+}
+#order_comments {
+  border-radius: 7px;
+  font-size: 16px;
+  background-color: #e5ddca;
+  border: 1px solid #e5ddca;
+  color: #254234;
+}
+.select2-container--default .select2-selection--single {
+  background-color: #e5ddca;
+  border: 1px solid #e5ddca;
+  color: #254234;
+  font-size: 16px;
+}
+.select2-container--default
+  .select2-selection--single
+  .select2-selection__arrow
+  b {
+  border-color: #ba6a38 transparent transparent transparent;
+}
+#order_review > table > tbody > tr > td.product-total > span > bdi {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #254234;
+}
+#order_review > table > tfoot > tr.cart-subtotal > td > span > bdi {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: #254234;
+}
+#order_review > table > tfoot > tr.order-total > td > strong > span > bdi {
+  font-family: richler-pro-pe, serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: #254234;
+}
+#order_review > table > tbody > tr > td.product-name {
+  font-family: richler-pro-pe, serif;
+}
+
+@media (max-width: 768px) {
+  #post-739
+    > div
+    > div
+    > div
+    > div
+    > div.et_pb_row.et_pb_row_1
+    > div
+    > div
+    > div
+    > div
+    > form
+    > table
+    > tbody
+    > tr:nth-child(2)
+    > td {
+    display: none;
+  }
+}
