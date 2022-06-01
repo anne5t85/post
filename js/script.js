@@ -1,14 +1,14 @@
 
-alert("hey");
-console.log('hi there from "js/scripts.js" - good to see you'); 
-console.error("just checking if you are checking the console"); 
+// alert("hejsa");
+// console.log('hi there from "js/scripts.js" - good to see you'); 
+// console.error("just checking if you are checking the console"); 
 
-var collapseElementList = [].slice.call(document.querySelectorAll(".collapse"));
-var collapseList = collapseElementList.map(function(collapseEl){
-    return new bootstrap.Collapse(collapseEl);
-});
+// var collapseElementList = [].slice.call(document.querySelectorAll(".collapse"));
+// var collapseList = collapseElementList.map(function(collapseEl){
+//     return new bootstrap.Collapse(collapseEl);
+// });
 
-gsap.registerPlugin(ScrollTrigger);
+// gsap.registerPlugin(ScrollTrigger);
 
 // $(".carousel").carousel({
 //   interval: 2000,
